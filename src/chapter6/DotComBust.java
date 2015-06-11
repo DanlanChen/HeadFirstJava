@@ -1,6 +1,5 @@
 package chapter6;
 import java.util.*;
-import  chapter5.*;
 public class DotComBust {
 
 	private GameHelper helper = new GameHelper();
